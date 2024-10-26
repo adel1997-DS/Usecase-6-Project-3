@@ -8,7 +8,7 @@
 - *Arwa Al-Khathlan*
 - *Abdullah Al-Haqbani*
 - *Faris*
-## Team Members:
+## Stream Link:
 https://usecase-6-project-3-jgd47k3gndt5qejdqtzsmr.streamlit.app/
 
 
