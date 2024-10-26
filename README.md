@@ -7,7 +7,7 @@
 - *Mohammed Abdullah*
 - *Arwa Al-Khathlan*
 - *Abdullah Al-Haqbani*
-- *Faris*
+- *Faris Alhamdan*
 ## Stream Link:
 https://usecase-6-project-3-jgd47k3gndt5qejdqtzsmr.streamlit.app/
 
