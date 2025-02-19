@@ -4,6 +4,7 @@
 
 
 ## Team Members:
+- *Adel Nawar*
 - *Mohammed Abdullah*
 - *Arwa Al-Khathlan*
 - *Abdullah Al-Haqbani*
